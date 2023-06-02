@@ -18,7 +18,7 @@ public class Polidivisible {
     }
     /**
      * Metodo que verifica si el numero tiene todos los digitos desde 0 hasta longitu -1
-     * @return la verificacion
+     * @return true o false despues de la verificacion
      */
     public boolean esPolidivisible() {
         String numeroStr = String.valueOf(numero);
